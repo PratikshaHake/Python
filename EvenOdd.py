@@ -1,5 +1,16 @@
-def CheckEven(No):
+#Check whether the number is even or odd
+
+def EvenOdd(No):
     if(No%2==0):
-        print("Number is Even number")
+        print("Even")
     else:
-        print("Number is odd")
+        print("Odd")
+
+def main():
+    print("Enter a number")
+    no=int(input())
+
+    EvenOdd(no)
+
+if __name__=="__main__":
+    main()
