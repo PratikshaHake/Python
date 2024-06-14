@@ -1,0 +1,12 @@
+----------------------------------------------------------------------------------------------------
+Demo\Log.txt Process Log
+Log file created at :Fri Jun 14 16:51:54 2024
+----------------------------------------------------------------------------------------------------
+CONTENTS OF LOG FILE 
+----------------------------------------------------------------------------------------------------
+		F:\Python\Assignment\Assignment13\Demo\connection.py 
+		F:\Python\Assignment\Assignment13\Demo\CreateLog - Copy.py 
+		F:\Python\Assignment\Assignment13\Demo\CreateLog.py 
+		F:\Python\Assignment\Assignment13\Demo\deletedup - Copy.py 
+		F:\Python\Assignment\Assignment13\Demo\deletedup.py 
+----------------------------------------------------------------------------------------------------
