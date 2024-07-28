@@ -1,7 +1,7 @@
 Iris Case Study
-This application based on supervised machine learning
-There is one dataset which contains the information about iris flowers like sepal length, sepal width, petal length, petal width etc.
-I used multiple classification algorithm to train the data set and predict whether the iris flower is centosa,versicolor or virginica. 
+1.This application based on supervised machine learning
+2.There is one dataset which contains the information about iris flowers like sepal length, sepal width, petal length, petal width etc.
+3.I used multiple classification algorithm to train the data set and predict whether the iris flower is centosa,versicolor or virginica. 
 
 
 
